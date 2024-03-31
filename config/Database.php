@@ -5,7 +5,7 @@
         private $host ='localhost';
         private $db_name ='php_dev';
         private $username ='isaac';
-        private $password ='chimdindu1';
+        private $password ='';
         private $conn;
         
        
