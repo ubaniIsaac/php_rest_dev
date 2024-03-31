@@ -2,9 +2,9 @@
     class Database {
 
         //db params
-        private $host ='localhost';
-        private $db_name ='php_dev';
-        private $username ='isaac';
+        private $host ='';
+        private $db_name ='';
+        private $username ='';
         private $password ='';
         private $conn;
         
